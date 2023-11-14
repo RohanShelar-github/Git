@@ -27,6 +27,25 @@
       </Header>
       <SourceFileTimeStamp _date="738838" _time="26119" date="14/11/2023" time="07:15:19"/>
     </Program>
+    <Program>
+      <Header Description="Test" ISN_2="1" LastIsn="1" id="3">
+        <LastModified _date="738838" _time="47274" date="14/11/2023" time="13:07:54"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+      </Header>
+      <SourceFileTimeStamp _date="738838" _time="27474" date="14/11/2023" time="07:37:54"/>
+    </Program>
   </ProgramsRepositoryHeaders>
 
 </Application>
